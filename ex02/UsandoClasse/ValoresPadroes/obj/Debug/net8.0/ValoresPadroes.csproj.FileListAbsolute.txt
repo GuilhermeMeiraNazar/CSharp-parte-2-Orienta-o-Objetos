@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\bin\Debug\net8.0\ValoresPadroes.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\bin\Debug\net8.0\ValoresPadroes.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\bin\Debug\net8.0\ValoresPadroes.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\bin\Debug\net8.0\ValoresPadroes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\bin\Debug\net8.0\ValoresPadroes.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\refint\ValoresPadroes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ValoresPadroes.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\UsandoClasse\ValoresPadroes\obj\Debug\net8.0\ref\ValoresPadroes.dll
