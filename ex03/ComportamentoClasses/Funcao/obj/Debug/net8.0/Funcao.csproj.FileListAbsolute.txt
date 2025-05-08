@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\bin\Debug\net8.0\Funcao.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\bin\Debug\net8.0\Funcao.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\bin\Debug\net8.0\Funcao.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\bin\Debug\net8.0\Funcao.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\bin\Debug\net8.0\Funcao.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\refint\Funcao.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\Funcao.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex02\ComportamentoClasses\Funcao\obj\Debug\net8.0\ref\Funcao.dll
