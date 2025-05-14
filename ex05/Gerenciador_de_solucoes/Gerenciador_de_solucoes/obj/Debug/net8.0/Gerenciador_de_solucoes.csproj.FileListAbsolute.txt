@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\bin\Debug\net8.0\Gerenciador_de_solucoes.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\bin\Debug\net8.0\Gerenciador_de_solucoes.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\bin\Debug\net8.0\Gerenciador_de_solucoes.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\bin\Debug\net8.0\Gerenciador_de_solucoes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\bin\Debug\net8.0\Gerenciador_de_solucoes.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\refint\Gerenciador_de_solucoes.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\Gerenciador_de_solucoes.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-2-Orientação-Objetos\ex04\Gerenciador_de_solucoes\Gerenciador_de_solucoes\obj\Debug\net8.0\ref\Gerenciador_de_solucoes.dll
